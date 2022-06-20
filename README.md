@@ -2,7 +2,7 @@
 - 👀 I’m interested in CloudCompute\Iot\CloudNative
 - 🌱 I’m currently learning Read & Write skill
 - 💞️ I’m looking to collaborate on CloudNative project
-- 📫 How to reach me, you can touch me by 'wonderful-ya@outlook.com'
+- 📫 How to reach me, you can touch me by `wonderful-ya@outlook.com`
 
 <!---
 wonderful-ya/wonderful-ya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
